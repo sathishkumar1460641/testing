@@ -12,6 +12,7 @@ class JavaExample{
 	    * static members of the outer class.
 	    */
 	   System.out.println(str); 
+	   System.out.println(str); 
 	}
 
    }
